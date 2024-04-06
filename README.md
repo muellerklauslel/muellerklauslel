@@ -4,7 +4,7 @@
 
 
 🪣 Buckket List: 
-- finishing JamJunction 
-- develop a weather ap website
-- develop a mars rover image website using NASA's Mars Rover Photos API
-- creating a real life E-Ink Desktop widget
+- 🎧 finishing [JamJunction](muellerklauslel.wixsite.com/jamjunction-alpha)
+- 🌦️ develop a weather ap website
+- 🌑 develop a mars rover image website using NASA's Mars Rover Photos API
+- 🖥️ creating a real life E-Ink Desktop widget
