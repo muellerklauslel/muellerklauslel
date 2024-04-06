@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muellerklauslel
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script, Java
-- 📫 How to reach me ...
+
 
 🪣 Buckket List: 
 - finishing JamJunction 
