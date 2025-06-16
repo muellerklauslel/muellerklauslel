@@ -4,7 +4,7 @@
 
 
 🪣 Buckket List: 
-- 🎧 finishing [JamJunction](jamjunction.web.app)
+- 🎧 finishing [JamJunction](https://jamjunction.web.app)
 - 🏎️ working on a F1 website 
 - 🌦️ develop a weather app website
 - 🌑 develop a mars rover image website using NASA's Mars Rover Photos API
